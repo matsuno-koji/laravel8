@@ -43,3 +43,7 @@
 - livewire
 - inertia
 - まだあんまり調べていない(Vue とか React とかを使う場合は inertia？)
+
+### Web サーバーを nginx に変更する試み
+
+- sail との絡みがあり、sail の Docker を編集するより 1 から作った方が早いことがわかったので断念。
